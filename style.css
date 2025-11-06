@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+    padding: 40px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #4a90e2, #1e2a38);
+    color: white;
+}
+
+#contato a {
+    text-decoration: none;
+    color: #4a90e2;
+}
+
+#contato a:hover {
+    text-decoration: none;
+    color: #1e2a38;
+}
+
+section {
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 1rem;
+    padding: 2.5rem;
+    margin: 20px auto;
+    width: 1200px;
+    background-color: #4a90e2;
+    box-shadow: 0 2px 5px #505050;
+}
